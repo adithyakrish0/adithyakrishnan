@@ -12,13 +12,15 @@
 Real-time drowsiness alert system using Eye Aspect Ratio (EAR) and OpenCV.  
 [GitHub Repo →](https://github.com/adithyakrish0/DriverDrowsinessDetectionSystem)
 
-### 😄 Emotion Recognition using CNN  
-A CNN-based facial emotion classifier trained on FER2013 dataset.  
-[GitHub Repo →](https://github.com/adithyakrish0/emotion-recognition-cnn)
 
 ### 🐾 CIFAR-10 Animal Classifier  
 CNN-based image classifier focused on predicting 5 animal categories (bird, cat, deer, dog, horse) from the CIFAR-10 dataset.  
 [GitHub Repo →](https://github.com/adithyakrish0/cnn-cifar10-animal-classifier)
+
+### 😄 Emotion Recognition using CNN  
+A CNN-based facial emotion classifier trained on FER2013 dataset.  
+[GitHub Repo →](https://github.com/adithyakrish0/emotion-recognition-cnn)
+
 
 ---
 
