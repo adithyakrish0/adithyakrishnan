@@ -22,7 +22,7 @@ A CNN-based facial emotion classifier trained on FER2013 dataset.
 [GitHub Repo →](https://github.com/adithyakrish0/emotion-recognition-cnn)
 
 
-##🧠 GPT from Scratch (WIP)  
+### 🧠 GPT from Scratch (WIP)  
 Minimal GPT implementation using PyTorch, built while following [Andrej Karpathy's video](https://www.youtube.com/watch?v=kCc8FmEb1nY).  
 Still under development and learning phase.  
 [GitHub Repo →](https://github.com/adithyakrish0/gpt-from-scratch)
