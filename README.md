@@ -46,7 +46,7 @@ Still under development and learning phase.
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
+![Backpack](https://img.shields.io/badge/-Backpack-0A0A0A?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)
 
 
 ---
